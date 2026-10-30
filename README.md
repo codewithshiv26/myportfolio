@@ -1,4 +1,5 @@
-# Anidot personal website
+
+
 
 A minimal, typography-first personal site built with Astro. The design uses a warm off-white light theme, a near-black dark theme, restrained serif headings, and a single reading column.
 
